@@ -1,7 +1,7 @@
 
 ![image](https://user-images.githubusercontent.com/114376429/206955240-670383e9-afd3-4c59-8069-3f17202dd1ed.png)
 
-
+https://dayspedia.com/time/ru/Tomsk/
 <!--Dayspedia.com widget--><div class="DPAC" cityid="5720" lang="ru" id="dayspedia_widget_773fc27e6e11aca9" host="https://dayspedia.com" nightsign="true" sun="false" style="background-image: url(&quot;https://cdn.dayspedia.com/img/widgets/bg-8.png&quot;); background-color: rgb(44, 12, 12); border-width: 4px;">
 	<style media="screen" id="DPACstyles">
 				/*COMMON*/
